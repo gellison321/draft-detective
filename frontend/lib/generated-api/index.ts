@@ -544,6 +544,7 @@ export {
   type WorkflowError,
   WorkflowErrorSeverity,
   WorkflowGate,
+  type WorkflowPreset,
   type WorkflowProgressResponse,
   type WorkflowProgressResponseWritable,
   type WorkflowRun,
